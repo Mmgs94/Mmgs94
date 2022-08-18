@@ -22,3 +22,9 @@ HTML.
 SCRUM
 Agile methodologies.
 Visual Studio Code.
+
+
+contact me through:
+email: mmgsgs94@gmail.com
+Whats Up: +5493518101514
+Linkedin: https://www.linkedin.com/in/marcos-manuel-guzm%C3%A1n-souto-098b6223a/
