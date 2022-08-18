@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Mmgs94/Mmgs94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Who am I ?
+I am a Young Argentine, with a taste for programming and looking to develop professionally in it, current graduate of Henrry's Bootcamp in Full-Stack Developer.
 
-Here are some ideas to get you started:
+I have aspirations to work outside my country, to be able to travel and see the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience in sales and customer service since I worked in a shopping business
+
+My knowledge:
+Full-stack development.
+Back-end development.
+Front end development.
+Javascript.
+Node.js.
+SQL.
+React.js.
+Redux.js.
+HTML.
+SCRUM
+Agile methodologies.
+Visual Studio Code.
