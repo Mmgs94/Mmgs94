@@ -7,7 +7,6 @@ I am a Young Argentine, with a taste for programming and looking to develop prof
 
 I have aspirations to work outside my country, to be able to travel and see the world.
 
-I have experience in sales and customer service since I worked in a shopping business
 
 My knowledge:
 Full-stack development.
