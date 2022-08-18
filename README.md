@@ -19,7 +19,6 @@ SQL.
 React.js.
 Redux.js.
 HTML.
-SCRUM
 Agile methodologies.
 Visual Studio Code.
 
